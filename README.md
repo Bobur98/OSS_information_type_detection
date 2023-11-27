@@ -8,7 +8,7 @@ It comprises three main folders: data, code, and results. The components are as 
    - **new data**: Contains all the new data files, both separately and in a combined set.
    - **old data**: Contains all data collected by Arya2019.
    - **combined_dataset**: A combination of old and new data.
-   - **new_combined_data_oversampled**: Data after applying the random oversampling technique to the combined dataset.
+   - **combined_data_oversampled**: Data after applying the random oversampling technique to the combined dataset.
    - **old_data_oversampled**: Old data after applying the random oversampling technique.
 
 2. **code**: This folder contains the logistic regression code used to detect information types.
